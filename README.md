@@ -2,25 +2,60 @@
 
 # BackEnd
 
-1. Acesse a pasta BackEnd: cd .\BackEnd\
+1. Acesse a pasta BackEnd:
 
-2. Crie o ambiente virtual: python -m venv .venv
+```bash
+cd .\BackEnd\
+```
 
-3. Ative o ambiente virtual: .\.venv\Scripts\activate
+2. Crie o ambiente virtual: 
+```python
+python -m venv .venv
+```
 
-4. Instale as bibliotecas: pip install -r .\requirements.txt
+3. Ative o ambiente virtual: 
 
-5. Rode o servidor: python .\manage.py runserver
+```python
+.\.venv\Scripts\activate
+```
+
+4. Instale as bibliotecas: 
+
+```python
+pip install -r .\requirements.txt
+```
+
+5. Rode o servidor: 
+
+```python
+python .\manage.py runserver
+```
 
 # FrontEnd
 
-6. Acesse a pasta FrontEnd: cd .\FrontEnd\
+6. Acesse a pasta FrontEnd: 
 
-7. Instale a pasta node_modules: npm install
+```bash
+cd .\FrontEnd\
+```
 
-8. Instale as bibliotecas: npm install axios react-hook-form zod @hookform/resolvers react-router-dom
+7. Instale a pasta node_modules: 
 
-9. Rode o servidor: npm run dev
+```node
+npm install
+```
+
+8. Instale as bibliotecas: 
+
+```node
+npm install axios react-hook-form zod @hookform/resolvers react-router-dom
+```
+
+9. Rode o servidor: 
+
+```node
+npm run dev
+```
 
 # Documentação
 
