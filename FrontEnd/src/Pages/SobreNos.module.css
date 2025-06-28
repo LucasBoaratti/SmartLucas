@@ -1,0 +1,54 @@
+.paragrafo h1 {
+     text-align: center;
+     margin: 40px 0;
+}
+
+.informacoesSite {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: 50px 0;
+}
+
+.sobreSite {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}
+
+.sobreSite h2 {
+     margin-bottom: 20px;
+}
+
+.sobreSite p {
+     width: 550px;
+     height: auto;
+     text-align: justify;
+     margin-left: 15px;
+}
+
+.informacoesLucas {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: 50px 0;
+}
+
+.sobreMim {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}
+
+.sobreMim h2 {
+     margin-bottom: 20px;
+}
+
+.sobreMim p {
+     width: 550px;
+     height: auto;
+     text-align: justify;
+     margin-right: 15px;
+}

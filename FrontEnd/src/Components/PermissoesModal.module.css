@@ -1,0 +1,45 @@
+.containerModal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    z-index: 1000;
+    background-color: #838383;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.modal {
+    width: 500px;
+    height: 250px;
+    padding: 30px;
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal p {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.modal button {
+    width: 100px;
+    height: 2rem;
+    background-color: #F5E517;
+    font-size: 1rem;
+    border-radius: 25px;
+    border: 2px solid black;
+    cursor: pointer;
+} 
+
+.botao {
+    text-align: center;
+    margin-top: 10px;
+}

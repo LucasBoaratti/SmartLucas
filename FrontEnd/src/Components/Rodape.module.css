@@ -1,0 +1,76 @@
+footer {
+    background-color: #0E0FFA;
+    padding: 60px;
+}
+
+.rodape {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.direitosAutorais {
+    text-align: center;
+}
+
+.direitosAutorais p {
+    font-size: 20px;
+    margin-bottom: 45px;
+}
+
+.redesSociais {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 25px;
+    font-size: 50px;
+}
+
+.redesSociais a {
+    color: white;
+}
+
+.contatos {
+    line-height: 50px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.contatos .contato {
+    font-size: 20px;
+}
+
+.links {
+    line-height: 50px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.links .link {
+    font-size: 20px;
+}
+
+.links {
+    line-height: 50px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.links .link {
+    font-size: 20px;
+}
+
+.sobreNos {
+    cursor: pointer;
+}
+
+.site {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.pessoas {
+    font-size: 16px;
+    text-align: center;
+}

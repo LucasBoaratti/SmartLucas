@@ -1,0 +1,189 @@
+.banner {
+    background-color: #8717FF;
+    margin-top: 85px;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+.banner img {
+    margin-left: 50px;
+}
+
+.sobreSmartLucas {
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sobreSmartLucas h2 {
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+
+.sobreSmartLucas p {
+    width: 540px;
+    height: auto;
+    font-size: 16px;
+}
+
+.textoSensor {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 75px;
+}
+
+.textoSensor h1 {
+    font-size: 30px;
+}
+
+.descricaoSensores {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+}
+
+.sensorTemperatura {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.textoSensorTemperatura {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    width: 345px;
+    height: 50px;
+    background-color: #8717FF;
+    color: white;
+    padding: 10px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.textoSensorTemperatura p {
+    font-size: 20px;
+}
+
+.textoSensorTemperatura i {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.informacoesSensor {
+    width: 345px;
+    height: 290px;
+    background-color: #8717FF;
+    color: white;
+    padding: 10px;
+    font-size: 1rem;
+    text-align: justify;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.sensorUmidade {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.textoSensorUmidade {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    width: 345px;
+    height: 50px;
+    background-color: #8717FF;
+    color: white;
+    padding: 10px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.textoSensorUmidade p {
+    font-size: 20px;
+}
+
+.textoSensorUmidade i {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.descricaoSensores2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+}
+
+.sensorContagem {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.textoSensorContagem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    width: 345px;
+    height: 50px;
+    background-color: #8717FF;
+    color: white;
+    padding: 10px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.textoSensorContagem p {
+    font-size: 20px;
+}
+
+.textoSensorContagem i {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.sensorLuminosidade {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.textoSensorLuminosidade {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    width: 345px;
+    height: 50px;
+    background-color: #8717FF;
+    color: white;
+    padding: 10px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.textoSensorLuminosidade p {
+    font-size: 20px;
+}
+
+.textoSensorLuminosidade i {
+    font-size: 30px;
+    cursor: pointer;
+}

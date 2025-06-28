@@ -1,0 +1,81 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container h1 {
+    text-align: center;
+    margin: 40px 0;
+    font-weight: normal;
+}
+
+.formularioBusca {
+    background-color: #8717FF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 75px;
+    padding: 20px;
+    color: white;
+}
+
+.formularioBusca h2 {
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+.formularioBusca select {
+    width: 150px;
+    height: 35px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.formularioBusca input {
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    margin: 7px 0;
+    padding-left: 3px;
+}
+
+.formularioBusca p {
+    margin-bottom: 10px;
+}
+
+.botao {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.botao button {
+    border-radius: 25px;
+    border: none;
+    padding: 10px;
+    background-color: #F5E517;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.tabela {
+    background-color: #0E4D15;
+    border-collapse: collapse;
+    color: white;
+    margin-bottom: 80px;
+}
+
+.tabela th {
+    font-size: 20px;
+    padding: 10px;
+    font-weight: normal;
+    border: 2px solid #FFFBFB;
+}
+
+.tabela td {
+    padding: 15px;
+    border: 2px solid #FFFBFB;
+    font-size: 16px;
+}

@@ -1,0 +1,98 @@
+header {
+    background-color: #0E0FFA;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    height: 140px;
+}
+
+.barraNavegacao {
+    display: flex;
+    align-items: center;
+    column-gap: 65px;
+}
+
+.barraNavegacao .home {
+    display: flex;
+    align-items: center;
+    background-color: #F5E517;
+    padding: 10px 15px;
+    border-radius: 25px;
+    column-gap: 10px; 
+    cursor: pointer;  
+}
+
+.barraNavegacao .home:hover {
+    background-color: #00F539;
+}
+
+.home i {
+    font-size: 50px;
+}
+
+.home p {
+    font-size: 20px;
+}
+
+.barraNavegacao .sensores {
+    display: flex;
+    align-items: center;
+    background-color: #F5E517;
+    padding: 10px 15px;
+    border-radius: 25px;
+    column-gap: 10px; 
+    cursor: pointer;    
+}
+
+.barraNavegacao .sensores:hover {
+    background-color: #00F539;
+}
+
+.sensores i {
+    font-size: 50px;
+}
+
+.sensores p {
+    font-size: 20px;
+}
+
+.barraNavegacao .login {
+    display: flex;
+    align-items: center;
+    background-color: #F5E517;
+    padding: 10px 15px;
+    border-radius: 25px;
+    column-gap: 10px;   
+    cursor: pointer; 
+}
+
+.barraNavegacao .login:hover {
+    background-color: #00F539;
+}
+
+.login i {
+    font-size: 50px;
+}
+
+.login p {
+    font-size: 20px;
+}
+
+.perfil {
+    text-align: center;
+    color: white;
+}
+
+.perfil h2 {
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+
+.perfil p {
+    line-height: 20px;
+    font-weight: 700;
+}
