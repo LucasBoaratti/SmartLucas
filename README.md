@@ -86,7 +86,7 @@ npm run dev
 
 #### E pronto! Agora você pode ver os dados dos sensores registrados, além de curiosidades sobre cada sensor cadastrado no site.
 
-# Linguagens e tecnologias utilizadas
+# 👨‍💻 Linguagens e tecnologias utilizadas 👨‍💻
 
 ## FrontEnd
 
